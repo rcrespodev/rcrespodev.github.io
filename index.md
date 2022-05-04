@@ -1,6 +1,6 @@
-# **__Rodrigo Crespo__ -** _Backend Developer_
+# **Rodrigo Crespo - _Backend Developer_**
 
-## About Me
+## ***About Me***
 Soy un solucionador de problemas. La programación es sólo una herramienta más.  
 
 La experiencia me demostró, que, en la industría IT, no basta con tan sólo un conjunto de
@@ -18,7 +18,7 @@ de aplicaciones empresariales basadas en el ERP SAP S/4HANA, tanto soluciones Cl
 On Premise, utilizando lenguaje ABAP.
 También cuento con experiencia en diferentes lenguajes como Golang, Javascript, Python y C.
 
-## Experiencia formal.
+## ***Experiencia formal.***
 
 - ### **Consultor Backend SAP Fi S/4 Hana Full Fiori**.
   **Reginald Lee S.A.** | _Argentina, BA | 2020 - actualidad_ |
@@ -68,20 +68,20 @@ También cuento con experiencia en diferentes lenguajes como Golang, Javascript,
   - Go-live y mantenimiento: Estabilización y corrección del sistema
   en función del modelado original.
 
-## Experiencia no formal.
+## ***Experiencia no formal.***
 - Serie de Blogs educativos sobre diseño de software y buenas prácticas.
 - My queue
 - My response services
 - My walltet app
 - Programas de CLI construídos en C.
 
-## Educación y certificaciones.
+## ***Educación y certificaciones.***
   - **Ingeniería informática** | _Universidad Abierta Interamericana | 2020 - Actualidad._
   - **Licenciatura en Economía** | _Universidad de Buenos Aires | 2017 - 2019._
   - **SAP Certified Application Associate - SAP S/4HANA** _| SAP | 2020._
 
 
-## Un poco más sobre mi.
+## ***Un poco más sobre mi.***
 Me apasiona la arquitectura y diseño de software. Considero que, en el desarrollo de
 aplicaciones empresariales, es crucial aplicar Clean Architectures para garantizar la
 escalabilidad de la misma.
