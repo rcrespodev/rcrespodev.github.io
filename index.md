@@ -25,7 +25,7 @@ I'm from Buenos Aires, Argentina and have 3 years of verifiable experience in **
 applications based on the SAP ERP S/HANA systems, both **Cloud and On Premise solutions**, using ABAP language.
 
 Actually, I'm looking for a job jump towards new languages and technologies related to *backend development* and **devops**
-culture, such as **Golang**, **Python**, **Cloud Services**, **Sql** and **non-Sql** databases_, **Kubernetes**, **CI/CD**, etc.
+culture, such as **Golang**, **Python**, **Cloud Services**, **Sql** and **non-Sql** databases, **Kubernetes**, **CI/CD**, etc.
 
 ## Work Experience <a name="workExperience"></a>
 
