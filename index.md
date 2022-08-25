@@ -25,13 +25,13 @@ I'm from Buenos Aires, Argentina and have 3 years of verifiable experience in **
 applications based on the SAP ERP S/HANA systems, both **Cloud and On Premise solutions**, using ABAP language.
 
 Actually, I'm looking for a job jump towards new languages and technologies related to _backend development_ and _devops
-culture_, **such as _golang_, _python_, _sql and non-sql databases_, _kubernetes_, _CI/CD_, etc**.
+culture_, such as **_golang_, _python_, _sql and non-sql databases_, _kubernetes_, _CI/CD_, etc**.
 
 ## Work Experience <a name="workExperience"></a>
 
 ### Functional and Technical SAP Consultant S/4 Hana
 
-**Reginald Lee S.A.** | _Argentina, BA | 2021 - 2022_ |
+**Reginald Lee S.A.** _Argentina, BA 2021 - 2022_
 
 S/4 Hana 1909 on Cloud implementation.
 
@@ -47,7 +47,7 @@ S/4 Hana 1909 on Cloud implementation.
 
 ### Backend Lieder SAP 1709 S/4 Hana Full Fiori.
 
-**Baitcon S.A.** | _Argentina, CABA | 2021 - 2021_ |
+**Baitcon S.A.** _Argentina, CABA 2021 - 2021_
 
 _Inside project_. Design and implementation the solution for the RG 4919/2021 - "Factura de Crédito MyPyme"
 using ABAP language.
@@ -57,7 +57,7 @@ using ABAP language.
 
 ### Functional and Technical Consultant SAP 1809 S/4 Hana Full Fiori.
 
-**360 Energy S.A.** | _Argentina, BA | 2020 - 2020_ |
+**360 Energy S.A.** _Argentina, BA 2020 - 2020_
 
 - Design and development of Z accounting module using ABAP language:
     - Design Hana Database performed to reading operations. He responsibility are delivery accounting balances according
@@ -66,7 +66,7 @@ using ABAP language.
 
 ### Functional and Backend consultant SAP 1709 S4/HANA Full Fiori.
 
-**Ferrocarriles Argentinos Sociedad del Estado** | _Argentina, CABA | 2018 - 2020_ |
+**Ferrocarriles Argentinos Sociedad del Estado**  _Argentina, CABA  2018 - 2020_ 
 
 - Business Blueprints: GAPS identification and define solution model.
 - Design and development of complex queries for obtain Financial Statements and Cash Flow reports using ABAP language.
@@ -76,8 +76,8 @@ using ABAP language.
 ## Personal Projects. <a name="personalProjects"></a>
 
 In my personal projects you can see how I put my technical skills in practice.
-Here, you will find the application of different concepts/solutions/technologies, like CQRS and others patterns,
-SQL and non-SQL DB, DDD, TDD and Clean architectures, Auth strategies, testing and deploys.
+Here, you will find the application of different concepts/solutions/technologies, like *CQRS* and others patterns,
+*SQL* and *non-SQL* DB, *DDD*, *TDD* and *Clean architectures*, *Auth* strategies, *testing* and *deploy*.
 
 ### [Blogs.](https://github.com/rcrespodev/Blogs)
 
