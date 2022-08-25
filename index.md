@@ -24,8 +24,8 @@ Contributor.
 I'm from Buenos Aires, Argentina and have 3 years of verifiable experience in **Backend development** of business
 applications based on the SAP ERP S/HANA systems, both **Cloud and On Premise solutions**, using ABAP language.
 
-Actually, I'm looking for a job jump towards new languages and technologies related to _backend development_ and *devops
-culture*, such as *Golang*, *Python*, *Cloud Services*, *Sql* and *non-Sql* databases_, *Kubernetes*, *CI/CD*, etc.
+Actually, I'm looking for a job jump towards new languages and technologies related to *backend development* and **devops**
+culture, such as **Golang**, **Python**, **Cloud Services**, **Sql** and **non-Sql** databases_, **Kubernetes**, **CI/CD**, etc.
 
 ## Work Experience <a name="workExperience"></a>
 
@@ -76,8 +76,8 @@ using ABAP language.
 ## Personal Projects. <a name="personalProjects"></a>
 
 In my personal projects you can see how I put my technical skills in practice.
-Here, you will find the application of different concepts/solutions/technologies, like *CQRS* and others patterns,
-*SQL* and *non-SQL* DB, *DDD*, *TDD* and *Clean architectures*, *Auth* strategies, *testing* and *deploy*.
+Here, you will find the application of different concepts/solutions/technologies, like **CQRS** and others patterns,
+**SQL** and **non-SQL** DB, **DDD**, **TDD** and **Clean architectures**, **Auth** strategies, **testing** and **deploy**.
 
 ### [Blogs.](https://github.com/rcrespodev/Blogs)
 
