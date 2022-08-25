@@ -24,8 +24,10 @@ Contributor.
 I'm from Buenos Aires, Argentina and have 3 years of verifiable experience in **Backend development** of business
 applications based on the SAP ERP S/HANA systems, both **Cloud and On Premise solutions**, using ABAP language.
 
-Actually, I'm looking for a job jump towards new languages and technologies related to *backend development* and **devops**
-culture, such as **Golang**, **Python**, **Cloud Services**, **Sql** and **non-Sql** databases, **Kubernetes**, **CI/CD**, etc.
+Actually, I'm looking for a job jump towards new languages and technologies related to *backend development* and **
+devops**
+culture, such as **Golang**, **Python**, **Cloud Services**, **Sql** and **non-Sql** databases, **Kubernetes**, **
+CI/CD**, etc.
 
 ## Work Experience <a name="workExperience"></a>
 
@@ -66,7 +68,7 @@ using ABAP language.
 
 ### Functional and Backend consultant SAP 1709 S4/HANA Full Fiori.
 
-**Ferrocarriles Argentinos Sociedad del Estado**  _Argentina, CABA  2018 - 2020_ 
+**Ferrocarriles Argentinos Sociedad del Estado**  _Argentina, CABA 2018 - 2020_
 
 - Business Blueprints: GAPS identification and define solution model.
 - Design and development of complex queries for obtain Financial Statements and Cash Flow reports using ABAP language.
@@ -77,14 +79,14 @@ using ABAP language.
 
 In my personal projects you can see how I put my technical skills in practice.
 Here, you will find the application of different concepts/solutions/technologies, like **CQRS** and others patterns,
-**SQL** and **non-SQL** DB, **DDD**, **TDD** and **Clean architectures**, **Auth** strategies, **testing** and **deploy**.
+**SQL** and **non-SQL** DB, **DDD**, **TDD** and **Clean architectures**, **Auth** strategies, **testing** and **
+deploy**.
+
+### [User Manager.](https://github.com/rcrespodev/user_manager)
 
 ### [Blogs.](https://github.com/rcrespodev/Blogs)
 
 - Technologies: Golang, Docker, Redis.
-
-### [User Manager.](https://github.com/rcrespodev/user_manager)
-
 - Technologies: Golang, Docker, Postgres, Redis, RabbitMq, JWT.
 
 ### Education. <a name="contact"></a>
