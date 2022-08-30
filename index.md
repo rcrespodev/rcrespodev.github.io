@@ -26,8 +26,8 @@ applications based on the SAP ERP S/HANA systems, both **Cloud and On Premise so
 
 Actually, I'm looking for a job jump towards new languages and technologies related to *backend development* and
 *devops*
-culture, such as **Golang**, **Python**, **Cloud Services**, **Sql** and **non-Sql** databases, **Kubernetes**, **
-CI/CD**, etc.
+culture, such as **Golang**, **Python**, **Cloud Services**, **Sql** and **non-Sql** databases, **Kubernetes**, 
+**CI/CD**, etc.
 
 ## Work Experience <a name="workExperience"></a>
 
