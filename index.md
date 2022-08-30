@@ -83,7 +83,7 @@ deploy**.
 
 ### [User Manager.](https://github.com/rcrespodev/user_manager)
 
-- Technologies: Golang, Docker, Postgres, Redis, RabbitMq, JWT.
+- Technologies: Golang, Docker, MySQL, Redis, RabbitMq, JWT.
 
 ### [Blogs.](https://github.com/rcrespodev/Blogs)
 
