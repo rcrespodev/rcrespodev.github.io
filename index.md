@@ -24,8 +24,8 @@ Contributor.
 I'm from Buenos Aires, Argentina and have 3 years of verifiable experience in **Backend development** of business
 applications based on the SAP ERP S/HANA systems, both **Cloud and On Premise solutions**, using ABAP language.
 
-Actually, I'm looking for a job jump towards new languages and technologies related to *backend development* and **
-devops**
+Actually, I'm looking for a job jump towards new languages and technologies related to *backend development* and
+*devops*
 culture, such as **Golang**, **Python**, **Cloud Services**, **Sql** and **non-Sql** databases, **Kubernetes**, **
 CI/CD**, etc.
 
@@ -44,7 +44,7 @@ S/4 Hana 1909 on Cloud implementation.
           middleware.
         - Reports for tax and accounting users.
         - Complex business rules for five different tax resolutions.
-        - Integration with legacy systems by HTTP apis.
+        - Integration with legacy systems by **API REST-Full**.
         - Responsible for the migration of commercial and tax Master Data using **Python con Pandas**.
 
 ### Backend Lieder SAP 1709 S/4 Hana Full Fiori.
