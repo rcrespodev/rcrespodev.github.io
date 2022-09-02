@@ -78,8 +78,7 @@ _Inside project_. Design and implementation the solution for the RG 4919/2021 - 
 
 In my personal projects you can see how I put my technical skills in practice.
 Here, you will find the application of different concepts/solutions/technologies, like **CQRS** and others patterns,
-**SQL** and **non-SQL** DB, **DDD**, **TDD** and **Clean architectures**, **Auth** strategies, **testing** and **
-deploy**.
+**SQL** and **non-SQL** DB, **DDD**, **TDD** and **Clean architectures**, **Auth** strategies, **testing** and **deploy**.
 
 ### [User Manager.](https://github.com/rcrespodev/user_manager)
 
