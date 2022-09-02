@@ -82,9 +82,18 @@ Here, you will find the application of different concepts/solutions/technologies
 
 ### [User Manager.](https://github.com/rcrespodev/user_manager)
 
+- Features: System to allow manage users information using an API Rest-full.
+Authentication layer, multiples Databases to handling user data and session data, Business Rules and validations,
+Email sender based on Event Oriented Architecture. Also, have a demo to simulate the correct interaction between
+Client and Server.
+
 - Technologies: Golang, Docker, MySQL, Redis, RabbitMq, JWT.
 
 ### [Blogs.](https://github.com/rcrespodev/Blogs)
+
+- Features: This is a series of technical articles on Software design and Best Practices.
+I will explain concepts agnostics to programing languages such as SOLID Principles, design patterns
+and architecture patterns. All articles contain a theory part and practical example with installation steps.
 
 - Technologies: Golang, Docker, Redis.
 
